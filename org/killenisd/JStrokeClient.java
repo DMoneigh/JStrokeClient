@@ -66,7 +66,7 @@ public class JStrokeClient extends Thread implements NativeKeyListener {
 	}
 
 	/**
-	 * The main class.
+	 * The main method.
 	 * 
 	 * @param args Any string arguments passed to this program
 	 */
